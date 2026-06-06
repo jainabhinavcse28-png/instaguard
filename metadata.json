@@ -1,0 +1,6 @@
+{
+  "name": "InstaGuard",
+  "description": "Identify Instagram bot accounts, screen suspicious comments, and analyze profile screenshots using advanced multi-modal AI heuristics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
